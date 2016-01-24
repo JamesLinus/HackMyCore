@@ -6,7 +6,7 @@ Contributions are welcome.
 ## Code
 
 
-1. Fork the HackMyAPI and/or HackMyResume repositories to your account.
+1. Fork the HackMyCore and/or HackMyResume repositories to your account.
 
 2. Clone your fork of the repository.
 

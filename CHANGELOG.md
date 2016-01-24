@@ -1,5 +1,11 @@
 CHANGELOG
 =========
+## 0.2.0
+
+### Changed
+
+- Renamed the project from `HackMyAPI` to `HackMyCore`.
+
 ## 0.1.0
 
 Initial release of the HackMyAPI library, corresponding to the 1.6.0
