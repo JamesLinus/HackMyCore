@@ -27,7 +27,7 @@ as mentioned on the Credits page.
 
 ## Issues
 
-Open new issues at will for bugs, feature requests, questions, or nnouncements.
+Open new issues at will for bugs, feature requests, questions, or announcements.
 
 ## Tools
 
